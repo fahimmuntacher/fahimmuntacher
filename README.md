@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Coding Animation"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fahim+Muntacher;MERN+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+my+future+one+commit+at+a+time">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fahim+Muntacher;MERN+Stack+Developer,+Full-Stact+in+Progress+%F0%9F%9A%80;Building+my+future+one+commit+at+a+time">
 </p>
 
 

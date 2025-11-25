@@ -76,16 +76,17 @@ I love building real-world projects, solving complex problems, and exploring the
 
 ---
 
-## 💎 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimmuntacher&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=fahimmuntacher&theme=radical&hide_border=true" height="165"/>
+  <img height="165" src="https://github-readme-stats-git-master-fahimmuntacher-projects.vercel.app/api?username=fahimmuntacher&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=fahimmuntacher&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimmuntacher&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img height="165" src="https://github-readme-stats-git-master-fahimmuntacher-projects.vercel.app/api/top-langs/?username=fahimmuntacher&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 

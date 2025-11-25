@@ -78,7 +78,7 @@ I love building real-world projects, solving complex problems, and exploring the
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahimmuntacher&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahimmuntacher&show_icons=true&theme=transparent&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmuntacher&theme=tokyonight&hide_border=true" />
 </p>
 

@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Coding Animation"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fahim+Muntacher;MERN+Stack+Developer,+Full-Stact+in+Progress+%F0%9F%9A%80;Building+my+future+one+commit+at+a+time">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fahim+Muntacher;MERN+Stack+Developer,+Full-Stack+in+Progress+%F0%9F%9A%80;Building+my+future+one+commit+at+a+time">
 </p>
 
 
@@ -97,8 +97,8 @@ I write code at **1:30 AM** because **bugs fear the dark** 🐛🌚
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/fahimmuntacher/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[YOUR_PORTFOLIO_URL](https://fahim-muntacher.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fahimmuntacher"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://fahim-muntacher.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.facebook.com/muntacherfahim234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="mailto:muntacherfahim234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/+8801612167862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>

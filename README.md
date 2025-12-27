@@ -79,16 +79,12 @@ I love building real-world projects, solving complex problems, and exploring the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="[https://github-readme-stats-git-master-fahimmuntacher-projects.vercel.app/api?username=fahimmuntacher&show_icons=true&theme=tokyonight](https://stats.hyo.dev/api/github-stats?login=hyochan)" />
+  
   <img height="165" src="https://streak-stats.demolab.com?user=fahimmuntacher&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-fahimmuntacher-projects.vercel.app/api/top-langs/?username=fahimmuntacher&layout=compact&theme=tokyonight" />
-</p>
 
 
----
 
 ## 💬 Fun Fact
 I write code at **1:30 AM** because **bugs fear the dark** 🐛🌚

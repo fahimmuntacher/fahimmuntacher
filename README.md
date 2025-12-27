@@ -97,10 +97,9 @@ I write code at **1:30 AM** because **bugs fear the dark** 🐛🌚
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/fahimmuntacher/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[YOUR_PORTFOLIO_URL](https://fahim-muntacher.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.facebook.com/muntacherfahim234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/mntsir_f/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:muntacherfahim234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/+8801612167862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   

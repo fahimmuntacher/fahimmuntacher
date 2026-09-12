@@ -1,106 +1,103 @@
-<!-- Animated Portfolio Intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Coding Animation"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fahim+Muntacher;MERN+Stack+Developer,+Full-Stack+in+Progress+%F0%9F%9A%80;Building+my+future+one+commit+at+a+time">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%C3%97+TypeScript">
 </p>
 
+# Fahim Muntacher
 
+**Full-Stack Developer** · CSE undergrad @ Southeast University · Dhaka, Bangladesh 🇧🇩
 
----
-
-# 😎 Hello World, I'm Fahim Muntacher
-### MERN Stack Developer | Full-Stack Explorer 🚀  
-
-> "Learning Web Dev + Breaking & Fixing Bugs + On-time Coding = **Beast Mode Activated** 💪"
+I build production systems end to end — schema design, Python APIs, Next.js front ends, and the Dockerized VPS they run on.
 
 ---
 
-## 🧑‍🚀 About Me
-I’m a passionate **MERN Stack Developer**, leveling up in modern web development.  
+### What I Work On
 
-I love building real-world projects, solving complex problems, and exploring the latest tech stacks.  
+**API & backend architecture**
+FastAPI services on a layered `Route → Controller → Service → Model` structure. SQLAlchemy 2.0 models with Alembic migrations, Pydantic schemas validating every boundary, JWT auth with refresh-token rotation, and Redis for sessions and rate limiting.
 
-- 🔥 Fast learner (sometimes too fast, I break things)  
-- 🚀 Clean coder (bugs still love me)  
-- 💼 Preparing for real-world dev challenges  
-- 🌍 Creating apps that *actually help people*  
+**Data & integrations**
+PostgreSQL schema design, Cloudinary media pipelines, generated PDF and QR assets, and LLM integrations for AI-assisted features.
+
+**Frontend interfaces**
+Next.js + TypeScript dashboards built with shadcn/ui and Radix, TanStack Query for server state, and Zustand for client state.
+
+**Deployment**
+Dockerized services behind Nginx, running on a Linux VPS managed through Coolify, with GitHub Actions handling CI.
+
+Much of this lives in private repositories, so my public activity shows only part of it.
 
 ---
 
-## ⚡ Tech Stack & Tools  
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+### Stack
 
-<br/>
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
+</p>
+
+**Data**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge" />
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
 </p>
 
----
-
-## 🌱 Pending exploration
- <p align = "center">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+**DevOps**
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
- </p>
+<img src="https://img.shields.io/badge/Coolify-8B5CF6?logo=coolify&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
+### Stats
 
----
+<!--
+  github-readme-stats.vercel.app was returning 503, so these use
+  github-profile-summary-cards instead.
 
-## 🎯 2026 Goals
-- Build **10+ full-stack projects**  
-- Master MERN & modern stacks  
-- Contribute to **open-source**  
-- Land my **first developer job**
-- Start Uni **as a CSE student**  
-
----
-
-## 📊 GitHub Stats
+  NO LANGUAGE CARD ON PURPOSE — don't add one back. Every language widget
+  reads public repos only, and all the Python lives in private repos
+  (three of them owned by an org, not this account), so the card ranked
+  JavaScript first and contradicted the stack section above. Self-hosting
+  github-readme-stats with a PAT does NOT fix it: top-langs counts only
+  repos this account OWNS. The real fix is publishing a public Python project.
+-->
 
 <p align="center">
-  
-  <img height="165" src="https://streak-stats.demolab.com?user=fahimmuntacher&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimmuntacher&theme=tokyonight" alt="Profile Summary" />
 </p>
 
-
-
-
-## 💬 Fun Fact
-I write code at **1:30 AM** because **bugs fear the dark** 🐛🌚
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=fahimmuntacher&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
+### Links
+
+<p align="center">
 <a href="https://www.linkedin.com/in/fahimmuntacher"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://fahim-muntacher.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-<a href="https://www.facebook.com/muntacherfahim234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="mailto:muntacherfahim234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/+8801612167862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  
 </p>
-
----
-
-### ⭐ If you like my work, feel free to ⭐ my repositories, it keeps me motivated to build even cooler projects! 🚀
